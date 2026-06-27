@@ -83,3 +83,18 @@ Godot 3.6.1 mobile portrait MVP generated from `idle_rpg_codex_handoff.md`.
 - `scenes/BattleScene.tscn`
 - `scripts/battle_scene.gd`
 - `scripts/character_stats.gd`
+## Documentation Index
+
+The project Markdown index is maintained at:
+
+- [`docs/README.md`](docs/README.md)
+
+Important loading order for future Codex work:
+
+1. `SOURCE_OF_TRUTH_INDEX.md`
+2. `AGENTS.md`
+3. `GAME_CURRENT_VERSION.md`
+4. `CURRENT_PROJECT_STATE.md`
+5. Relevant Active Rules by task area
+
+Many root-level documents are referenced by the Source of Truth index. Do not move or rename them unless a source-of-truth migration is explicitly approved.
