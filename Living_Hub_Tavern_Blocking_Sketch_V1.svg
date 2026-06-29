@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#fff"/>
+  <rect x="80" y="115" width="1120" height="430" fill="#eeeeee" stroke="#111" stroke-width="3"/>
+  <text x="640" y="80" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
+    LIVING HUB TAVERN - V1 PORTRAIT SKETCH DEPRECATED
+  </text>
+  <text x="640" y="140" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    Tavern gameplay is landscape. Battlefield gameplay is portrait.
+  </text>
+  <text x="640" y="180" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16">
+    Do not use portrait Tavern blocking for future design or validation.
+  </text>
+  <text x="640" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16">
+    Use the latest landscape Tavern blocking sketch and LIVING_HUB_ORIENTATION_RULE_V1.md.
+  </text>
+  <line x1="220" y1="360" x2="1060" y2="360" stroke="#111" stroke-width="3"/>
+  <rect x="220" y="300" width="220" height="120" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <rect x="530" y="270" width="220" height="180" fill="#d8d8d8" stroke="#111" stroke-width="2"/>
+  <rect x="840" y="300" width="220" height="120" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <text x="330" y="368" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">LEFT</text>
+  <text x="640" y="368" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">CENTER</text>
+  <text x="950" y="368" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">RIGHT</text>
+  <text x="640" y="510" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14">
+    Horizontal Tavern anchors preview adjacent landmarks while Center remains dominant.
+  </text>
+</svg>
